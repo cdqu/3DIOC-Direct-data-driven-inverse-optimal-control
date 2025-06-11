@@ -1,4 +1,4 @@
-# 3DIOC-Direct-data-driven-inverse-optimal-control
+## 3DIOC-Direct-data-driven-inverse-optimal-control
 
 ### KKT-based IOC  
 run `setup.m`  
